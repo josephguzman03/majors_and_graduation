@@ -1,0 +1,38 @@
+name: 180a-Q1
+channels:
+  - defaults
+dependencies:
+  - _anaconda_depends
+  - python=3.11
+  - setuptools
+  - pip
+  - wheel
+  - anaconda-anon-usage
+  - anaconda-catalogs
+  - anaconda-client
+  - anaconda-project
+  - anaconda-navigator
+  - conda[version='>=23.7']
+  - conda-build
+  - conda-content-trust
+  - conda-libmamba-solver
+  - conda-pack
+  - conda-package-handling
+  - conda-package-streaming
+  - conda-token
+  - conda-verify
+  - python.app
+  - matplotlib=3.9.1
+  - json5=0.10.0
+  - tqdm=4.66.5
+  - pandas=2.2.3
+  - seaborn=0.13.2
+  - numpy=1.26.4
+  - numpy-base=1.26.4
+  - ollama=0.1.17
+  - openpyxl=3.1.5
+  - openjpeg=2.5.2
+  - python-fastjsonschema=2.21.1
+
+
+prefix:  /Users/josephguzman/anaconda3/envs/180a-Q1
