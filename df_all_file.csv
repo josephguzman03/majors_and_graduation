@@ -1,0 +1,6 @@
+,custom_id,model,run_id,name,gender,race,major,query_response_raw,input_type
+0,task-0,gpt-4o-mini-2024-07-18,0,Charlie Andersen,Man,Anglo,Electrical Engineering,"Management Science, 85.00 %.",0
+0,task-0,gpt-4o-mini-2024-07-18,0,Charlie Andersen,Man,Anglo,Electrical Engineering,"Business Administration, 85.00 %.",1
+0,task-0,gpt-4o-mini-2024-07-18,0,Charlie Andersen,Man,Anglo,Electrical Engineering,"Healthcare Administration, 85.00 %.",2
+0,task-0,gpt-4o-mini-2024-07-18,0,Charlie Andersen,Man,Anglo,Electrical Engineering,"Health Sciences, 85.00%.",3
+1,task-1,gpt-4o-mini-2024-07-18,1,Charlie Andersen,Man,Anglo,Electrical Engineering,"Business Administration, 85.00 %.",0
